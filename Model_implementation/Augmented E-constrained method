@@ -271,7 +271,7 @@ function E_restrito(epsilon)
     return (Obj1,Obj2)
 end
 
-N=5
+N=21
 Obj1=[]
 Obj2=[]
 for i in 1:N
